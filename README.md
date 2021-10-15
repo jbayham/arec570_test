@@ -1,6 +1,6 @@
 # Project Title
 
-Who is involved
+Jude
 
 Short description of the project goals
 
