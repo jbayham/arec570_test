@@ -1,3 +1,3 @@
-# arec570_test
+# Test Repo
 
 This is a test project using github.
